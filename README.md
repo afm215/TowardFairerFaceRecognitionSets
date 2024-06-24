@@ -1,6 +1,6 @@
-# TowardFairerFaceRecognitionSets
+# Face Recognition Dataset Balancing for Fairer Face Verification
 
-Official repository for the paper Toward Fairer Face Recognition Datasets
+Official repository for the paper Face Recognition Dataset Balancing for Fairer Face Verification
 
 ## Abstract
 
